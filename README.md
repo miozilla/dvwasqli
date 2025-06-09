@@ -2,7 +2,7 @@
 dvwasqli : DVWA # SQLi
 
 ## Objective
-To perfrom Cyber Security Pentest by manipulating & exploit DBMS using SQLi.
+To perfrom Cyber Security Pentest by manipulating & exploiting DBMS using SQLi and Blind (Canary) SQLi.
 
 ## SQL Injection Damn Vulnerable Web Application
 
