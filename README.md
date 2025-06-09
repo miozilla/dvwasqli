@@ -1,4 +1,4 @@
-# dvwasqli
+# dvwasqli 💫💉
 dvwasqli : DVWA # SQLi
 
 ## Objective
